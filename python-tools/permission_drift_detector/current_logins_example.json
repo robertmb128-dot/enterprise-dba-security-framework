@@ -1,0 +1,14 @@
+[
+  {
+    "login_name": "app_service",
+    "login_type": "SQL_LOGIN",
+    "is_disabled": false,
+    "default_database_name": "AppDB"
+  },
+  {
+    "login_name": "temp_login",
+    "login_type": "SQL_LOGIN",
+    "is_disabled": false,
+    "default_database_name": "master"
+  }
+]
