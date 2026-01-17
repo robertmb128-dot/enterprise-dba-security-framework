@@ -1,0 +1,12 @@
+[
+  {
+    "principal": "reporting_user",
+    "permission": "SELECT",
+    "object": "dbo.Sales"
+  },
+  {
+    "principal": "etl_service",
+    "permission": "EXECUTE",
+    "object": "dbo.LoadWarehouse"
+  }
+]
