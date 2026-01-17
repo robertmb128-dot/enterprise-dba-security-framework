@@ -1,3 +1,6 @@
+# Enterprise DBA Security Framework Description
+Enterprise-grade SQL Server security auditing and permission drift detection framework designed for Senior DBA, Principal DBA, and DBRE roles.
+
 # Enterprise DBA Security Framework
 
 A production-safe, detection-first framework for operating SQL Server and cloud database platforms in regulated, enterprise environments.
@@ -86,3 +89,4 @@ This repository demonstrates a **detection-first, rollback-aware approach** to d
 2. Populate your config files safely
 3. Review README.md for each project
 4. Test in a sandbox environment
+
