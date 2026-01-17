@@ -1,0 +1,8 @@
+{
+  "server": "string",
+  "database": "string",
+  "principal": "string",
+  "permission": "string",
+  "state": "GRANT | DENY",
+  "collected_at": "ISO-8601 timestamp"
+}
