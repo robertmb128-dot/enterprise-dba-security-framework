@@ -1,8 +1,11 @@
-# Compliance Considerations
+# Documentation
 
-Maps framework design to:
-- SOX
-- SOC 2
-- Internal audit expectations
+Enterprise-facing documentation for:
+- Architecture overview
+- Security model
+- Operational workflows
 
-Focuses on traceability, reviewability, and change control.
+This directory is designed for:
+- Reviewers
+- Security teams
+- Auditors
